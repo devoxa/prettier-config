@@ -30,6 +30,7 @@
 <p align="center">
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
+  <a href="#extending">Extending</a> •
   <a href="#contributors">Contributors</a> •
   <a href="#license">License</a>
 </p>
