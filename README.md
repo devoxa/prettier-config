@@ -52,6 +52,13 @@ To enable the rules, add a `prettier` property in your `package.json`. See the
 "prettier": "@devoxa/prettier-config"
 ```
 
+It is also recommended to add the following scripts to your `package.json` for easy usage.
+
+```json
+"format": "prettier --ignore-path='.gitignore' --list-different --write .",
+"format:check": "prettier --ignore-path='.gitignore' --check .",
+```
+
 ## Extending
 
 This configuration is not intended to be changed, but if you have a setup where modification is
