@@ -1,7 +1,7 @@
 {
   "name": "@devoxa/prettier-config",
   "description": "The sharable configuration for Prettier used in all Devoxa projects",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "prettier.config.js",
   "license": "MIT",
   "repository": {
