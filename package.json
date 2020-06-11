@@ -1,0 +1,24 @@
+{
+  "name": "@devoxa/prettier-config",
+  "description": "The sharable configuration for Prettier used in all Devoxa projects",
+  "version": "0.1.0",
+  "main": "prettier.config.js",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/devoxa/prettier-config"
+  },
+  "scripts": {
+    "format": "prettier --ignore-path='.gitignore' --list-different --write .",
+    "format:check": "prettier --ignore-path='.gitignore' --check ."
+  },
+  "prettier": "./prettier.config.js",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "peerDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
