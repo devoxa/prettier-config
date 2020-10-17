@@ -59,6 +59,10 @@ It is also recommended to add the following scripts to your `package.json` for e
 "format:check": "prettier --ignore-path='.gitignore' --check .",
 ```
 
+Additionally, it is recommended to install the
+[VS Code Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to
+get in-editor formatting support.
+
 ## Extending
 
 This configuration is not intended to be changed, but if you have a setup where modification is
