@@ -8,7 +8,8 @@ module.exports = {
   jsxSingleQuote: true,
   trailingComma: 'es5',
   bracketSpacing: true,
-  jsxBracketSameLine: false,
+  bracketSameLine: false,
+  jsxBracketSameLine: false, // Deprecated
   arrowParens: 'always',
   proseWrap: 'always',
   endOfLine: 'lf',
