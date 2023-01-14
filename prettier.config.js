@@ -1,3 +1,6 @@
+// In addition to this config, we also install the "organize-imports" plugin, which makes Prettier
+// organize `import`s using the TypeScript language service API (like "Organize Imports" in VS Code).
+
 module.exports = {
   printWidth: 100,
   tabWidth: 2,
