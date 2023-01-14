@@ -1,5 +1,6 @@
 // In addition to this config, we also install the "organize-imports" plugin, which makes Prettier
 // organize `import`s using the TypeScript language service API (like "Organize Imports" in VS Code).
+// (This is also where the peer dependency on TypeScript comes from.)
 
 module.exports = {
   printWidth: 100,
