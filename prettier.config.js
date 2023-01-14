@@ -12,7 +12,6 @@ module.exports = {
   trailingComma: 'es5',
   bracketSpacing: true,
   bracketSameLine: false,
-  jsxBracketSameLine: false, // Deprecated
   arrowParens: 'always',
   proseWrap: 'always',
   endOfLine: 'lf',
