@@ -40,7 +40,7 @@
 ## Installation
 
 ```bash
-yarn add --dev prettier @devoxa/prettier-config
+yarn add --dev @devoxa/prettier-config prettier typescript
 ```
 
 ## Usage
