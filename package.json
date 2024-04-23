@@ -17,8 +17,8 @@
   },
   "devDependencies": {
     "@types/node": "20.9.5",
-    "prettier": "3.2.4",
-    "typescript": "5.3.3"
+    "prettier": "3.2.5",
+    "typescript": "5.4.5"
   },
   "peerDependencies": {
     "prettier": ">=2.4",
