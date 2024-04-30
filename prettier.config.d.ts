@@ -1,4 +1,4 @@
 import prettier from 'prettier'
 
-declare const options: prettier.Options
-export default options
+declare const config: prettier.Config
+export default config

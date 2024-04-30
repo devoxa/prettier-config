@@ -16,4 +16,10 @@ module.exports = {
   arrowParens: 'always',
   proseWrap: 'always',
   endOfLine: 'lf',
+
+  overrides: [
+    // Disable formatting JSONC with trailing commas (discouraged by the format)
+    // See https://github.com/prettier/prettier/issues/15956#issuecomment-1987146114
+    { files: ['*.jsonc'], options: { trailingComma: 'none' } },
+  ],
 }
