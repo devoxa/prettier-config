@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Description -->
-<h4 align="center"> 
+<h4 align="center">
   The <a href="https://prettier.io/docs/en/configuration.html#sharing-configurations">shareable configuration</a>
   for <a href="https://prettier.io/">Prettier</a> used in all Devoxa projects
 </h4>
