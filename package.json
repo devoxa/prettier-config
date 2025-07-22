@@ -13,7 +13,7 @@
   },
   "prettier": "./prettier.config.js",
   "dependencies": {
-    "prettier-plugin-organize-imports": "4.1.0"
+    "prettier-plugin-organize-imports": "4.2.0"
   },
   "devDependencies": {
     "@types/node": "20.9.5",
